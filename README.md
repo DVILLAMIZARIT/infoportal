@@ -1,6 +1,4 @@
-##Shiro Hai
+##Info Portal
 
-A bare bones web application using Apache Shiro and Spring.
+Information Portal is the real-time reporting dashboard for the Order Portal and Sales Portal 
 
-
-http://viralpatel.net/blogs/tutorial-create-custom-tag-library-taglib-in-jsp/
